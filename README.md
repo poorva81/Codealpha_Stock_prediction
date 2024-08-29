@@ -1,6 +1,6 @@
-📌 Third Task Completion
+📌 Second Task Completion
 
-I'm excited to share that I've successfully completed my Third task as part of my CodeAlpha internship!
+I'm excited to share that I've successfully completed my second task as part of my CodeAlpha internship!
 
 🧮 Project: Stock Prediction
 
